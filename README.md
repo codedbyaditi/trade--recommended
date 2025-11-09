@@ -1,4 +1,4 @@
-# Automated Trade Recommendation System
+#Zerodha TradeBot
 
 This project is a small prototype that computes technical indicators (RSI, MACD, moving averages) and provides simple BUY/SELL/HOLD suggestions. It integrates with Zerodha (Kite Connect) if you provide API credentials, or falls back to yfinance for demo runs.
 
