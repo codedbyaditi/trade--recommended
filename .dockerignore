@@ -1,0 +1,7 @@
+# Docker
+Dockerfile
+.dockerignore
+
+# IDE
+.idea/
+.vscode/
